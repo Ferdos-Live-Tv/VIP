@@ -378,5 +378,11 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=213
 http://livetvbox.live:8080/live/554147/554147/433.m3u8
 #EXTINF:-1 tvg-logo="logo" group-title="Bangladeshi",Green TV
 http://livetvbox.live:8080/live/554147/554147/257227.m3u8 group-title="Bangladeshi",Gazi TV HD
-#EXTINF:-1 tvg-logo="logo" group-title="KIDZ", POGO
+#EXTINF:-1 tvg-logo="logo" group-title="Kidz", POGO
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 tvg-logo="logo" group-title="Kidz",Sony YAY
+http://xtv.ooo:8080/live/Ali2922/wawawawa/26187.m3u8
+#EXTINF:-1 tvg-logo="logo" group-title="Kidz",Sonic
+http://onceeer.top:8080/live/471712225818150/414ac5b53c93/53616.m3u8
+#EXTINF:-1 tvg-logo="logo" group-title="Kidz",Netflix Kidz
+http://xtv.ooo:8080/live/Ali2922/wawawawa/301506.m3u8
