@@ -27,8 +27,19 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U Music
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1722492354:KeyName=prod_linear:Signature=Kz0vfj7iRcEGqEKHeafkUX9hP0_2zHQogELV0JQszkeIzS2J69V0797RUSv1wIsg7Upq3qyS6ZCXMaJwgwAuBA"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK6tWS8d/20240708-030944.png" group-title="LIVE EVENTS(Ferdos Alom)",https://t.me/FREDFLIX1
-https://t.me/FREDFLIX1 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK6tWS8d/20240708-030944.png" group-title="LIVE EVENTS(Ferdos Alom)",https://t.me/FREDFLIX1
+http://103.151.60.174/manikvai@hoichoi24.com-t-sports
+
+
+
+ 
+
 #EXTINF:-1 tvg-logo="logo" group-title="Islamic",Islam Bangla
 https://4gradgmttgwzdecjq8y5o.ourdvsssvip.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=1db9ecb3e0e3691fc3f349bd-172008898522755&wsIPSercert=1fd3fc10e6e62894db7b491dc629bfcd&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-logo="logo" group-title="Islamic",Peach TV
