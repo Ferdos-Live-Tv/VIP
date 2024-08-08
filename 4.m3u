@@ -1,0 +1,35 @@
+EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg" group-title="KOLKATA",Zee Bangla HD
+http://217.20.112.199/zeebangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg" group-title="KOLKATA",Star Jalsha HD
+http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg" group-title="KOLKATA",Star Jalsha Movies
+http://sansat.net:25461/live/02028857936892/0751169096/100697.m3u8
+#EXTINF:-1http://172.28.28.20:8099/ch4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg" group-title="KOLKATA",Star Jalsha Movies HD
+http://opplextv.cyou:8080/live/773199/626227/245900.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png" group-title="KOLKATA",Colors Bangla HD
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA",COLORS BANGLA CINEMA
+https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg" group-title="KOLKATA",Sun Bangla
+http://opplextv.cyou:8080/live/773199/626227/245906.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqLyqRz.jpghttps://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATAKOLKATA",Sun Bangla CinemaSony Aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg" group-title="KOLKATA",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA",Rupshi Bangla
+https://cdn3.pishow.tv/live/281/master.m3u8
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" group-title="KOLKATA",Akash 8
+http://51.159.212.144/live/ramiz67/8774343/245928.m3u8?token=GhMNBEZcR1gRUAYBUFNSDFVSVQcDBQFVVAQDAgFeVQdWAQFSU1FSAVJEGBoXEhZRBVtrXgVGAgJWUw4GCxQUFhJUFzpcUEdYEVEHCVxRUhZIFEBeDAEaClJKFURaXBRZQwJXUAcER04RA0xMARQKVQhpUFIXDVtVQFxZQV9UGkEOXzoBUFkEDFdEDhpVREgWDUVEFVsKTVwOShVWWkxEAhVUR19bQQkOH0RXVxEIEEYdFA4VIyAaHEADT0BWVkUKDl9HXxdZVhcLRBgaDRU7RgFFQEUEBVVVEEQNFgMaGkEMUB06VlsLDFYFQFELCBcWXhQFFU1GVV8MD0NbQWdGCgUTX0cGBlBQCkRJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yldyrvA.jpg" group-title="KOLKATA",Amar Bangla
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
+#EXTINF:-1https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU" group-title="KOLKATA NEWS",Zee 24 Ghonta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg" group-title="KOLKATA NEWS",Abp News live
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tv9bangla.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="KOLKATA NEWS",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
