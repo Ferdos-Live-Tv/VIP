@@ -40,8 +40,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46hWv4UGnQrKD7aYywsnpZI6NEe.jpg" group-title="Movies",Johaar (2020)
+http://xtv.ooo:8080/movie/global/global/207569.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK6tWS8d/20240708-030944.png" group-title="LIVE EVENTS(Ferdos Alom)",https://t.me/FREDFLIX1
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports 
