@@ -1,561 +1,384 @@
-#EXTM3U   
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Himel OP'S IPTV",Himel OP'S IPTV
-
-https://video.twimg.com/ext_tw_video/1741065669851185152/pu/pl/GUrbDWkWzo_RpR0i.m3u8?variant_version=1&tag=12
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)",T Sports Akash
-
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)",Premier Sports 1 50 FPS
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/optv.m3u8?id=37451
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Sports",Astro SuperSport 4
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=45426
-
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="LIVE EVENTS(Himel-OP)",Optus Sports 1 50 FPS
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=45102
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="LIVE EVENTS(Himel-OP)",Astro Cricket
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=206091
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEJC6CKSFnDu3fuj33SQi5UDzbTVyNIBiPciOKS4HTAaTELAPNuWj4YRc&s=10" group-title="LIVE EVENTS(Himel-OP)",Willow Cricket
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12161
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi",Somoy TV
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Johaar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46hWv4UGnQrKD7aYywsnpZI6NEe.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Johaar (2020)
+http://xtv.ooo:8080/movie/global/global/207569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thappu Thanda (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tqCmLfbzYF8ECKsKMHemEdVP7K.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Thappu Thanda (2017)
+http://xtv.ooo:8080/movie/global/global/207570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jism Aur Khoon (Appavum Veenjum) (2015)" tvg-logo="https://zmovies4u.com/wp-content/uploads/2021/05/MV5BOGQ4ZTZiZjgtMDU3Mi00ZDFjLTg1OTItYjA2MjIwZjYwOTgxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Jism Aur Khoon (Appavum Veenjum) (2015)
+http://xtv.ooo:8080/movie/global/global/207571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forensic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nnOFdY23oTr1f8NjsebvREjJdf.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Forensic (2020)
+http://xtv.ooo:8080/movie/global/global/207572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Terrorist (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2YzdmYWItZDQ4Ni00MjhmLTlkZGQtMjEzMDY2ZTlkY2UwXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",The Terrorist (2018)
+http://xtv.ooo:8080/movie/global/global/207573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Middle Class Melodies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdnv49YdBpxfIE8h0zLmBTVgm1.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Middle Class Melodies (2020)
+http://xtv.ooo:8080/movie/global/global/207574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shivaji Surathkal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqW3kD8rhXOZZkbgWOMfI9c8lqL.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Shivaji Surathkal (2020)
+http://xtv.ooo:8080/movie/global/global/207575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naanum Rowdydhaan (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fWnzmBxZMEJZZATogoMPebazYB.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Naanum Rowdydhaan (2015)
+http://xtv.ooo:8080/movie/global/global/207576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo Brathuke So Better (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MmaOnyK6TTeEv8WNCEStmovOFd.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Solo Brathuke So Better (2020)
+http://xtv.ooo:8080/movie/global/global/207577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raju Kannada Medium (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvza3AfZf5QWePbC30PABHXx520.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Raju Kannada Medium (2018)
+http://xtv.ooo:8080/movie/global/global/207579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ongole Githa (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqA79U1NFjZlRCIB2mcrgSWgLTT.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Ongole Githa (2013)
+http://xtv.ooo:8080/movie/global/global/207580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All Madha Yaanai Koottam (Ravanpur The Battle) (2013)" tvg-logo="https://imagetot.com/images/2020/12/27/26f179aa67dd2b179cc99c4cdad991de.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",All Madha Yaanai Koottam (Ravanpur The Battle) (2013)
+http://xtv.ooo:8080/movie/global/global/207581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chanakya (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTroJBj6IZE58OfCetvxRFiits5.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Chanakya (2019)
+http://xtv.ooo:8080/movie/global/global/207582.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK6tWS8d/20240708-030944.png" group-title="LIVE EVENTS(Ferdos Alom)",https://t.me/FREDFLIX1
+http://xtv.ooo:8080/movie/global/global/207569.mkv 
+#EXTINF:-1 tvg-logo="logo" group-title="Islamic",Islam Bangla
+https://4gradgmttgwzdecjq8y5o.ourdvsssvip.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=1db9ecb3e0e3691fc3f349bd-172008898522755&wsIPSercert=1fd3fc10e6e62894db7b491dc629bfcd&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqJP01rY/20240801-213041.png" group-title="Islamic",Peach TV
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLHxQ9VG/20240801-210445.png" group-title="Islamic",Islam Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y61QD6t/20240801-210349.png" group-title="Islamic",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z7HsDgf/20240801-210409.png" group-title="Islamic",Iqra TV
+https://48rhnhqjafa3drp3qgc4o.ourdvsssvip.com/pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5xrsj6s/20240801-210506.png" group-title="Islamic",Madina TV Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj9zg6hR/20240801-205923.png" group-title="Bangladeshi",Desh TV
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVDWz4ZG/20240721-134436.png" group-title="Bangladeshi",Somoy TV
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi",Ekhon TV
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM7nwdYn/20240721-140150.png" group-title="Bangladeshi",Ekhon TV (1)
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM7nwdYn/20240721-140150.png" group-title="Bangladeshi",Ekhon TV (2)
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12110
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Bangladeshi",Gaan Bangla
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12077
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladeshi",Nexus TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hks2TFfd/20240721-141947.png" group-title="Bangladeshi",Nexus TV (1)
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NexusTelevisionLive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hks2TFfd/20240721-141947.png" group-title="Bangladeshi",Nexus TV (2)
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5687
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi",Asian TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRJp2cwS/20240721-142038.png" group-title="Bangladeshi",Asian TV
+https://mtlivestream.com/asian/ytlive/index.m3u8
 
-https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfv0F4j0/20240721-143456.png" group-title="Bangladeshi",Bangla TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=356614
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladeshi",Bangla TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvHpVw6H/20240721-143546.png" group-title="Bangladeshi",Banglavision HD
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=34573
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Bangladeshi",Banglavision HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/op.m3u8?id=721
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4T7dCBD/20240721-143734.png" group-title="Bangladeshi",Channel 24
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@channel24digital
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladeshi",Bijoy TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXytFHqM/20240721-143831.png" group-title="Bangladeshi",Bijoy TV
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11214
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239065
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi",Channel I HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m27SxV4K/20240721-143859.png" group-title="Bangladeshi",Channel I HD (1)
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ChanneliNews
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi",DBC News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m27SxV4K/20240721-143859.png" group-title="Bangladeshi",Channel I HD (2)
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dbcnewstv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD58BF6W/20240721-143922.png" group-title="Bangladeshi",DBC News (1)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV HD
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sD58BF6W/20240721-143922.png" group-title="Bangladeshi",DBC News (3)
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx3sbdRL/20240801-211213.png" group-title="Bangladeshi",Deepto TV
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1F7D0bH/20240801-211008.png" group-title="Bangladeshi", Ananda TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrL0rDJ/20240801-211115.png" group-title="Bangladeshi",Movie Bangla
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="g" group-title="Bangladeshi",Boishakhi TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZjfnVf5/20240721-150408.png" group-title="Bangladeshi",Ekattor TV HD
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@EkattorTelevision
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5gkgbRb/20240721-150236.png" group-title="Bangladeshi",Gazi TV HD
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=98
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5gkgbRb/20240721-150236.png" group-title="Bangladeshi",Gazi TV HD (2)
+http://livetvbox.live:8080/live/34643/34643/767.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3pdM3Yx/tsport.png" group-title="Bangladeshi",T Sports (1)
+http://113.212.111.246:8080/hls/col12.m3u8
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10432
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3pdM3Yx/tsport.png" group-title="Bangladeshi",T Sports (2)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports
+https://tsports.buddyxiptv.com/master_480.m3u8
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=23937
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3pdM3Yx/tsport.png" group-title="Bangladeshi",T Sports (3)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent TV
+https://tsports.buddyxiptv.com/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3pdM3Yx/tsport.png" group-title="Bangladeshi",T Sports (4)
+http://103.151.60.174/manikvai@hoichoi24.com-t-sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsvVfnh/20240721-151402.png" group-title="Bangladeshi",Independent TV (1)
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndependentTelevision
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangladeshi",Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zsvVfnh/20240721-151402.png" group-title="Bangladeshi",Independent TV (2)
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PWttHc0/20240721-151634.png" group-title="Bangladeshi",Jamuna TV (1)
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PWttHc0/20240721-151634.png" group-title="Bangladeshi",Jamuna TV (2)
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
 
-https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhyPWdfX/20240721-151740.png" group-title="Bangladeshi",Ekushey TV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Bangladeshi",Mohona TV HD
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJYVWspH/20240721-152720.png" group-title="Bangladeshi",Mohona TV HD
 
-#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi",News 24 HD
+https://api.himel-op.top/s*x.php?id=245920
 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dailynews24x7daily
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",NTV BD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVdfTb5d/20240721-152924.png" group-title="Bangladeshi",NTV BD (1)
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVdfTb5d/20240721-152924.png" group-title="Bangladeshi",NTV UK
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi",RTV HD
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVdfTb5d/20240721-152924.png" group-title="Bangladeshi",NTV BD (2)
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsPHSM6G/20240723-214719.png" group-title="Bangladeshi",RTV HD
 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RtvNews
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7djBVYwQQ8puRypJMIXDpMIydpp4-EHDddA&usqp=CAU" group-title="Bangladeshi",SATV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DysrnnC9/20240801-210626.png" group-title="International",Aljajira English
+https://live-hls-web-aje-fa.getaj.net/alternative/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wLfyVLY/20240801-223039.png" group-title="International",DW 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11204
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s" group-title="Hindi News",NDTV Hindi News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2f7YSVz/20240801-210559.png" group-title="News",Zee 24 Ghanta
+https://vodakm.zeenews.com/vod/ZEE_24_GHANTA/010824_DIGITAL_BONGA_DIAMOND_HARBOUR_TRAIN_PROB.mp4/master-v1a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdFJL4xG/20240801-210326.png" group-title="News", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2f7YSVz/20240801-210559.png" group-title="News",Zee 24 Ghanta(2)
 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ndtvindia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgJBzmLF/20240801-210302.png" group-title="News",Zee Asam
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="Hindi News",Aaj Tak
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Indian Bangla",Sony Aath (1)
 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@aajtak
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239109
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzHyhLBG/20240801-211144.png" group-title="Indian Bangla",Colors Bangla Chinema
+https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Xp7KG9LkV10t4ppqs1tOjKhNzN9oB841tpR6QHhpLXz8mv8cs_juUxU&s=10" group-title="Hindi News",India TV News HD
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Indian Bangla",Sony Aath(2)
 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@IndiaTV
+https://api.himel-op.top/s*x.php?id=245989
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/2560px-Zee_news.svg.png" group-title="Hindi News",Zee News
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@zeenews
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png" group-title="Hindi News",Republic Bharat
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RepublicTVBharat
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="English News",Al Jazeera English
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@aljazeeraenglish
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Republic_TV.svg/1200px-Republic_TV.svg.png" group-title="English News",Republic TV English
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@RepublicWorld
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" group-title="English News",Times Now
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@TimesNow
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (h)
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11227
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Indian Bangla",Sony Aath (3)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="Indian Bangla",Enter 10 Bangla
 
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla",Colors Bangla HD(h)
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12119
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla",Colors Bangla HD
-
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Indian Bangla",Colors Bangla HD
+(1)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian Bangla",Colors Bangla HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Indian BanglaIndian Bangla",Colors Bangla HD(2)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=92
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla",Jalsha Movies(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Indian Bangla",Jalsha Movies(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24606
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla",Jalsha Movies HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Indian Bangla",Jalsha Movies HD(2)
+
+https://himel-op.top/Join-Telegram-@HimelOP_Official/hexa.m3u8?id=1523
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Indian Bangla",Jalsha Movies HD (3)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=117
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla",Star Jalsha HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Indian Bangla",Star Jalsha HD(1)
+http://103.151.60.174/manikvai@hoichoi24.com
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Indian Bangla",Star Jalsha HD(2)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla",Star Jalsha HD(h)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Indian Bangla",Star Jalsha HD(3)
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12101
+https://api.himel-op.top/s*x.php?id=245898
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla",Star Jalsha HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Indian Bangla",Star Jalsha HD (4)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=116592
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla",Zee Bangla HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Indian Bangla",Zee Bangla HD(1)
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24601
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Indian Bangla",Zee Bangla HD(2)
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239035
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla",Zee Bangla HD(h)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Indian Bangla",Zee Bangla (3)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11154
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla",Zee Bangla HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Indian Bangla",Zee Chinema Bangla (1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=119
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment",Sony TV HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Indian Bangla",Zee Chinema Bangla (2)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Hindi Entertainment",Sony TV HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24574
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment",Sony TV HD(h)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Hindi Entertainment",Sony TV HD(2)
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24573
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239403
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Hindi Entertainment",Sony TV HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Hindi Entertainment",Sony TV HD(3)
+
+https://api.himel-op.top/s*x.php?id=109948
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png" group-title="Hindi Entertainment",Sony TV HD (4)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="Hindi Entertainment",&TV HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Hindi Entertainment",&TV HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24583
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment",Colors HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Hindi Entertainment",&TV HD (2)
+
+https://api.himel-op.top/s*x.php?id=109952
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png" group-title="Hindi Entertainment",Colors HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24575
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment",Colors HD(c)
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11635
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment",Colors HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png" group-title="Hindi Entertainment",Colors HD (2)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=160
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment",Sony SAB HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Hindi Entertainment",Sony SAB HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24577
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment",Sony SAB HD(p)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Hindi Entertainment",Sony SAB HD(2)
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11672
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239404
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Hindi Entertainment",Sony SAB HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Hindi Entertainment",Sony SAB HD(3)
+
+https://api.himel-op.top/s*x.php?id=109953
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Hindi Entertainment",Sony SAB HD (4)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=191
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",Star Plus HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Hindi Entertainment",Star Plus HD(1)
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8159
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24610
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",Star Plus HD Tata
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Hindi Entertainment",Star Plus HD (2)
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=902
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239398
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Entertainment",Star Plus HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Hindi Entertainment",Star Plus HD (3l
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=200
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment",Star Bharat
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi Entertainment",Star Bharat (1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24585
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi Entertainment",Star Bharat
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi Entertainment",Star Bharat (2)
 
+https://api.himel-op.top/s*x.php?id=109951
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Hindi Entertainment",Star Bharat
+(3)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=195
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest/scale-to-width-down/250?cb=20210520175932" group-title="Hindi Entertainment",Star Utsav
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Hindi Entertainment",Star Utsav(1)
 
+https://himel-op.top/Join-Telegram-@HimelOP_Official/hexa.m3u8?id=2800
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png" group-title="Hindi Entertainment",Star Utsav
+(2)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=1236
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",Zee TV HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png" group-title="Hindi Entertainment",Zee TV HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10578
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",Zee TV HD(p)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png" group-title="Hindi Entertainment",Zee TV HD(2)
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11694
+https://api.himel-op.top/s*x.php?id=109950
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi Entertainment",Zee TV HD(h)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png" group-title="Hindi Entertainment",Zee TV HD(3)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies",Sony Max HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Hindi Movies",Sony Max HD(1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24621
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies",Sony Max HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Hindi Movies",Sony Max HD(2)
+
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=236924
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Hindi Movies",Sony Max HD (3)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies",Colors Cineplex(p)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Hindi Movies",&Xplore HD
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11711
+https://himel-op.top/Join-Telegram-@HimelOP_Official/ditto.m3u8?id=1823
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies",Colors Cineplex Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="Hindi Movies",Colors Cineplex(1)
+
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=236925
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="Hindi Movies",Colors Cineplex (2)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD(c)
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Hindi Movies",Star Gold HD(1)
 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/op.m3u8?id=390
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=236928
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Hindi Movies",Star Gold HD (2)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD(p)
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11693
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Hindi Movies",Zee Cinema HD (1)
 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD Ts
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Hindi Movies",Zee Cinema HD(2)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png"group-title="Hindi Movies",Zee Cinema HD (3)
+ 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=213
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="English Infotainment",Animal Planet HD
-
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYDXt66tr8X1mdvW071CXveOsoOfrqi9qqg&usqp=CAU" group-title="English Infotainment",Discovery HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=58807
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="English Infotainment",Sony BBC Earth Hindi(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10601
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="English Movies",Sony PIX(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5404
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="English Movies",Sony PIX Ts
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=189
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies",Star Movies
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies",Star Movies Ts
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Astro SuperSport 1
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=16126
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Astro SuperSport 2
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19867
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Astro SuperSport 3
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=16127
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Astro SuperSport 4
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19875
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Premier Sports 1 HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2945
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Premier Sports 2 HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2947
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Sky Sports Premier League
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7708
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Super Sports Premier League
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7708
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Super Sports LaLiga
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10745
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Sky Sports Cricket
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=8894
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Astro Cricket
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=206091
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="LIVE EVENTS(Himel-OP)",Super Cricket
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12167
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Fox 501 HD
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/zontv.m3u8?id=17331
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",Willow HD
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23943
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",PTV Sports HD
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",TNT Sports 1
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23564
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",TNT Sports 2
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23565
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",TNT Sports 3
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=148090
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports",TNT Sports 4
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=186630
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports",Sony Sports 5 HD(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=113
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports",Sony Sports 5 HD(p)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=22159
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutKB6lynmi7Gz5dao1FKSTTEyPz0IwvkeFnc-BF0&s" group-title="Sports",Sony Sports 5 HD(h)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=105350
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports 1 HD(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6474
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports 1 HD(c)
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=277343
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports",Sony Sports 1 HD(h)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=289
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports",Sony Sports 2 HD(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6058
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=2022102508450" group-title="Sports",Sony Sports 2 HD(c)
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=237213
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports",Sony Sports 2 HD(h)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=290
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sports 3 HD(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6906
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.pnghttps://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SportsSports",Sony Sports 3 HD(p)Sony Sports 3 HD(h)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=291
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.pnghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjJv1IGeW0-EnScle0QmWlsAV4esnamMfz7rD0zmGeqOdhPvkFKHNqp4&s=10" group-title="LIVE EVENTS(Himel-OP)LIVE EVENTS(Himel-OP)",Star Sports 1 HDStar Sports 1 Hindi HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12149
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160049" group-title="LIVE EVENTS(Himel-OP)",Star Sports 1 Tamil HD
-
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12154
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="Sports",Star Sports 2 HD(c)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=7610
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="Sports",Star Sports 2 HD(h)
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=49568
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports",Star Sports Select 1 HD
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19895
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports",Star Sports Select 1 HD
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=299
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports",Star Sports Select 2 HD
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=19899
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="Sports",Star Sports Select 2 HD
-
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=300
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Music",MTV
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=4029
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0HQDtkDCXBDxj_sq1MZKccOp27dns_6BZg&usqp=CAU" group-title="Music",MTV Beats
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23792
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music",9X Music
-
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music",9X Tahsan
-
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music",9X Jhakkas
-
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemkQaa9Z9pjxg33kY8HcWZy-YDtZejME5Hg&usqp=CAU" group-title="Music",Sangeet Bangla
-
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladeshi",Duronto
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney India
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=19741
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Kids",Hungama TV
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=238963
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/2560px-Nick_Logo_2017.svg.png" group-title="Kids",Nick
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=205
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Hindi
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=207
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU" group-title="Kids",Cartoon Network
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids",Sony Yay
-
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tvnpnpm/20240801-210236.png" group-title="Bangladeshi",Duronto TV
+http://livetvbox.live:8080/live/554147/554147/433.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTJJzdqQ/20240801-210204.png" group-title="Bangladeshi",Green TV
+http://livetvbox.live:8080/live/554147/554147/257227.m3u8 group-title="Bangladeshi",Gazi TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJKW8LLv/20240801-210033.png" group-title="Kidz", POGO
+http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkrFrB9q/20240723-215640.png" group-title="Kidz",Sony YAY
+http://xtv.ooo:8080/live/Ali2922/wawawawa/26187.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wx44xC1V/20240801-210003.png" group-title="Kidz",Sonic
+http://onceeer.top:8080/live/471712225818150/414ac5b53c93/53616.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXYZh3T4/20240801-223234.png" group-title="Kidz",Gubbare 
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
