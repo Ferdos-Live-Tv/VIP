@@ -1,4 +1,4 @@
-EXTM3U
+(EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="KOLKATA",Zee Bangla HD
 http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg" group-title="KOLKATA",Zee Bangla Chinema
@@ -39,3 +39,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="KOLKATA",Banglavision 
 #EXTINF:-1 tvg-logo="logo" group-title="KOLKATA",Nick
 http://103.84.57.155:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-logo="logo" group-title="KOLKATA",POGO
+http://217.20.112.199/pogo/index.m3u8
+#EXTINF:-1 tvg-logo="logo" group-title="KOLKATA",Star Plus
+http://217.20.112.199/starplushd/index.m3u8
+#EXTINF:-1 tvg-logo="logo" group-title="KOLKATA",Zee TV
+http://217.20.112.199/zeetvhd/index.m3u8
