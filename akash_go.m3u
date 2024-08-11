@@ -1,4 +1,4 @@
-h
+
 #EXTINF:-1 tvg-id="23820dcc" tvg-name="Independent TV" tvg-language="" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png" tvg-chno="23820dcc" group-title="News",Independent TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -345,3 +345,16 @@ http://5.62.130.10:80/iptv/iptv/43.ts
 http://5.62.130.10:80/iptv/iptv/44.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 09 SD" tvg-logo="http://5.62.130.10:80/images/bein9.png" group-title="tv",beIN SPORT 09 SD
 http://5.62.130.10:80/iptv/iptv/45.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d549744c-24dc-4779-9a58-1d6d73d87e0f/732c63cd-83b1-4651-9121-561644f681de.jpg?width=1080" group-title="Bongo",Jamuna TV
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=independent-tv
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/1287966f-8af0-4f40-8374-96ff981dd873.png?width=1080" group-title="Bongo",Bongo Movies
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
+#EXTINF:-1 tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7b638c02-91e3-43d2-8d58-fdf8b33acf3e/1439a125-8b15-409d-b9ca-710e1270eb0c.png?width=1080" group-title="Bongo",Bongo Dramas
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
